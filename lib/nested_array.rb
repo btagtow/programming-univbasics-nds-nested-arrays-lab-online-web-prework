@@ -34,6 +34,7 @@ def array_literal_matrix
     "Michael Pemulis"
     ]
     array_literal.sort 
+    array_literal
   # Using Array literal syntax only, build a nested array that uses the data in
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
