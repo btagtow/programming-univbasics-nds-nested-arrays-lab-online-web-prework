@@ -27,12 +27,18 @@ end
 
 def array_literal_matrix
   array_literal = [
-    "Hal Incandenza",
+    ["Hal Incandenza",
     "Lyle",
     "Gerhard Schtitt",
     "Mario Incandenza",
-    "Michael Pemulis"
-    ]
+    "Michael Pemulis"],
+    ["Don Gately",
+      "Joelle van Dyne",
+      "Pat M.",
+      "Kate Gompert",
+      "Bruce Green"]
+      ]
+      
     
     sorted_array=array_literal.sort 
     sorted_array
